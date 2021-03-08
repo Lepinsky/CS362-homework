@@ -1,0 +1,2 @@
+def leapyear(year):
+    pass
